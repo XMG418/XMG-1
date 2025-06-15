@@ -1,2 +1,2 @@
 # XMG-1
-XMG's first repository
+As a novice programmer,this is XMG's first repository in GitHub.
